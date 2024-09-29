@@ -15,3 +15,8 @@ Once you've tested that the program works. You can customize the data structure 
 Setup functions are validate_arg.c, init_data.c, free_data.c. 
 
 This is useful for speeding up all the functions you generally make for each program, but it's also a good exercise and shell scripting.
+
+Customize the file as you see fit. 
+
+Hint: rm -rf new_program
+- This will delete the new_program
